@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586357006838.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3142084268",
+    "id" : "49D32C46",
+    "lastKnownWriteTime" : 1586358995,
+    "last_content_update" : 1586358995,
+    "path" : "C:/Users/riazu/Google Drive/Glucksman Fellowship/13 Stock Return Prediction Code/20200408 Stock Return Prediction Code v0.4.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "122,0",
+        "scrollLine" : "78"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
